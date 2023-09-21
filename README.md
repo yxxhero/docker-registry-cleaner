@@ -10,7 +10,7 @@ https://github.com/fraunhoferfokus/deckschrubber
 
 ```bash
 go install github.com/yxxhero/docker-registry-cleaner
-$GOPATH/bin/docker-registry-cleaner
+$HOME/go/bin/docker-registry-cleaner
 ```
 
 ## Why this?
