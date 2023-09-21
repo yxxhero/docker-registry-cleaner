@@ -1,8 +1,6 @@
 # Docker-Registry-Cleaner
 > *n. person responsible for scrubbing a ship's deck.*
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/yxxhero/docker-registry-cleane)](https://goreportcard.com/report/github.com/yxxhero/docker-registry-cleaner)
-
 Docker-Registry-Cleaner inspects images of a [Docker Registry](https://docs.docker.com/registry/) and removes those older than a given age.
 
 ## Thanks
@@ -11,7 +9,7 @@ https://github.com/fraunhoferfokus/deckschrubber
 ## Quick Start
 
 ```bash
-go get github.com/yxxhero/docker-registry-cleaner
+go install github.com/yxxhero/docker-registry-cleaner
 $GOPATH/bin/docker-registry-cleaner
 ```
 
