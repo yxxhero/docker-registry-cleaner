@@ -11,7 +11,7 @@ https://github.com/fraunhoferfokus/deckschrubber
 ## Quick Start
 
 ```bash
-go get github.com/yxxhero/docker-registry-cleane
+go get github.com/yxxhero/docker-registry-cleaner
 $GOPATH/bin/docker-registry-cleaner
 ```
 
