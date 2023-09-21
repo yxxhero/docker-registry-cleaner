@@ -7,7 +7,7 @@
 Docker-Registry-Cleaner inspects images of a [Docker Registry](https://docs.docker.com/registry/) and removes those older than a given age.
 
 ## Thanks
-https://github.com/fraunhoferfokus/Docker-Registry-Cleaner
+https://github.com/fraunhoferfokus/deckschrubber
 
 ## Quick Start
 
