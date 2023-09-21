@@ -20,8 +20,8 @@ import (
 	schema2 "github.com/docker/distribution/manifest/schema2"
 	"github.com/docker/distribution/reference"
 	"github.com/docker/distribution/registry/client"
-	"github.com/fraunhoferfokus/deckschrubber/util"
 	log "github.com/sirupsen/logrus"
+	"github.com/yxxhero/docker-registry-cleaner/util"
 )
 
 var (
